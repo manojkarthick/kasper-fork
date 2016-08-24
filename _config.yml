@@ -1,6 +1,7 @@
 name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
+permalink: /:year/:month/:day/:title.html
 
 markdown: kramdown
 highlighter: pygments
@@ -13,4 +14,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Manoj Karthick'
